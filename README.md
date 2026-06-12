@@ -7,6 +7,12 @@ Estrutura:
 03_analise.ipynb — coortes sintéticas, análises descritivas e gráficos interativos
 04_regressao.ipynb — regressões OLS e logística
 
+Dados
+Os microdados brutos do IBGE não estão no repositório. 
+o notebook 01_coleta.ipynb os baixa automaticamente do FTP público do IBGE.
+O arquivo censo_religiao_renda.csv contém a base processada final 
+(410 mil registros) usada nas análises dos notebooks 03 e 04.
+
 Principais achados
 Controlando demografia, a religião tem efeito pequeno sobre a renda direta
 O efeito forte é indireto: a religião de berço associa-se à chance de diploma (OR pentecostal = 0,45; espírita = 4,78, vs. católicos)
