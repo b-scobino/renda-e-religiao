@@ -2,10 +2,10 @@ Descrição:
 Trabalho de análise de dados em Python investigando a relação entre afiliação religiosa, escolaridade e renda no Brasil, com microdados dos Censos Demográficos do IBGE (1991, 2000 e 2010).
 
 Estrutura:
-01_coleta.ipynb — download automatizado dos microdados (FTP do IBGE)
-02_limpeza.ipynb — leitura, classificação religiosa e harmonização dos 3 censos
-03_analise.ipynb — coortes sintéticas, análises descritivas e gráficos interativos
-04_regressao.ipynb — regressões OLS e logística
+01_coleta.ipynb: download automatizado dos microdados (FTP do IBGE)
+02_limpeza.ipynb: leitura, classificação religiosa e harmonização dos 3 censos
+03_analise.ipynb: coortes sintéticas, análises descritivas e gráficos interativos
+04_regressao.ipynb: regressões OLS e logística
 
 Dados
 Os microdados brutos do IBGE não estão no repositório. 
